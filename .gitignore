@@ -1,1 +1,19 @@
+# Python
+__pycache__/
+*.pyc
 
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# Pro codes (مهم حتى لا تنكشف الأكواد)
+pro_codes.json
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
